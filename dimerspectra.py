@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 This script allows you to simulate the NMR spectra of the ligand titartion experiments to a symmetric, dimeric receptor protein,
-using the P2 + L -> P2L + P2L -> P2L2 (dimer model).
+using the P2 + L -> P2L + L -> P2L2 (dimer model).
 Here, I assume the positive/negative cooperativity only affects the koff value.
 
 2020/9/21
