@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 This script allows you to simulate the free protomer and bound protomer populations,
-using the P + PL -> PL model (monomer model) or P2 + L -> P2L + P2L -> P2L2 (dimer model)
+using the P + PL -> PL model (monomer model) or P2 + L -> P2L + L -> P2L2 (dimer model)
 In dimer model, several different values for the cooperative factor, alpha, are assumed.
 
 2020/9/21
